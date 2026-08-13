@@ -27,5 +27,8 @@
     - QR 分解
     - GMRES
 
+- 数値計算
+    - Euler 法
+
 - 非線形最適制御
     - C/GMRES
