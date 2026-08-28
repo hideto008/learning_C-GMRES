@@ -2,6 +2,8 @@
 
 大塚先生が開発したC/GMRESに関する学習
 
+### 理論
+
 - 最適化問題
     - [テイラー展開](Notes/taylor_expansion.ipynb)
     - [ラグランジュの未定載数](Notes/Lagrange_multipliers.ipynb)
@@ -31,3 +33,8 @@
 
 - 非線形最適制御
     - [C/GMRES](Notes/C-GMRES.ipynb)
+
+### 適用
+
+- 非線形バネモデル
+    - [1質点 等式制約](Application/nonlinear_spring.ipynb)
