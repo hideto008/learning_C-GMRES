@@ -34,7 +34,11 @@
 - 非線形最適制御
     - [C/GMRES](Notes/C-GMRES.ipynb)
 
+- 制約の考慮
+    - [ダミー変数](Notes/Inequality_constraint.ipynb)
+
 ### 適用
 
 - 非線形バネモデル
     - [1質点 等式制約](Application/nonlinear_spring.ipynb)
+    - [1質点 ダミー変数による制御入力制約](Application/nonlinear_spring_with_constraint.ipynb)
